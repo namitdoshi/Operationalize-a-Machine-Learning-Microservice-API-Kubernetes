@@ -1,0 +1,7 @@
+ubuntu@ip-172-31-47-10:~/DevOps_Microservices/project-ml-microservice-kubernetes$ sudo ./run_kubernetes.sh
+deployment.apps "prediction" created
+NAME                         READY   STATUS                  RESTARTS   AGE
+prediction-8ff8b6977-llw6r   0/1     ContainerCreating       0          15s
+sevice "prediction" exposed
+
+
