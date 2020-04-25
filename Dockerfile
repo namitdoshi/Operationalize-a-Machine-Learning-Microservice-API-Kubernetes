@@ -10,9 +10,9 @@ COPY . app.py /app/
 
 ## Step 3:
 # Install packages from requirements.txt
+# hadolint ignore=DL3013
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
-#hadolint ignore=DL3013
 
 ## Step 4:
 EXPOSE 80
