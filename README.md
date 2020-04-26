@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/namitdoshi/Operationalize-a-Machine-Learning-Microservice-API-Kubernetes.svg?style=svg)](https://circleci.com/gh/namitdoshi/Operationalize-a-Machine-Learning-Microservice-API-Kubernetes)
+
 
 ## Project Overview
 
